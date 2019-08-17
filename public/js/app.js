@@ -1,4 +1,4 @@
-console.log('Client slide javascript file is loaded work!')
+
 
 const weatherForm = document.querySelector('form');
 const search = document.querySelector('input');
